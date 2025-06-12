@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Retail Inventory Dashboard</title>
+  <!-- Load Socket.IO client without integrity check -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/3.1.3/socket.io.min.js"></script>
+</head>
+<body>
+  <h1>Agent Events</h1>
+  <ul id="log"></ul>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

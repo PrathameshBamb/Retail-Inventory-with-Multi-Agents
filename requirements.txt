@@ -1,0 +1,8 @@
+spade 
+flask 
+pandas 
+scikit-learn 
+matplotlib
+flask-socketio
+eventlet
+twilio
