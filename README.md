@@ -76,5 +76,5 @@ Traditional inventory workflows rely on manual forecasting, stock checks, and ad
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/retail-inventory-multiagents.git
+git clone https://github.com/PrathameshBamb/Retail-Inventory-with-Multi-Agents.git
 
